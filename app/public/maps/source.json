@@ -1,0 +1,8 @@
+{
+  "name": "Natural Earth 110m land",
+  "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson",
+  "terms": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "license": "public domain",
+  "sha256": "74e32d31a1f9531a8531d9f5d7bf1b29c4ec94f87a006639e998e01be14f9156",
+  "use": "World overview only; hidden at city zoom to avoid implying precise coastlines."
+}

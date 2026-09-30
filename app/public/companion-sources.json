@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "mira-stand-v1",
+      "image": "/companions/v1/mira-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "52c93a21-87a9-40e5-9b01-f2860df11e1a",
+      "sha256": "c952f35ae3460f7a151ef95e8f972d52a513ae91166899f981384b6cb69884b0",
+      "bytes": 47962,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "mira-wave-v1",
+      "image": "/companions/v1/mira-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "78fdee20-01e7-4827-90f5-1aa44880e49f",
+      "sha256": "741a306cd169c181348849b9149884af4d8cc9f15a4b7beae3bdd7fdbda78933",
+      "bytes": 57514,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "leo-stand-v1",
+      "image": "/companions/v1/leo-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "a1b48f78-5e67-4666-92d3-84a2b6dc8a7c",
+      "sha256": "0863d83aec41c4df3b1257a1a6111530ca1eab6b8a2fb4f39128d6a66cf63267",
+      "bytes": 48806,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "leo-wave-v1",
+      "image": "/companions/v1/leo-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "f636fe08-72e1-474a-a9b4-92bbe0377dad",
+      "sha256": "5d118ed748d5185c1818d7756cbad0527d31e85a809c413db056ea2d8e9c6f28",
+      "bytes": 62578,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "iris-stand-v1",
+      "image": "/companions/v1/iris-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "ee1fb27e-f802-4be5-b361-9186fc0d6d21",
+      "sha256": "2f311e8bc287edaed6eb54afe81855475d2471d40d919e2a83a8439d4df33e8f",
+      "bytes": 36792,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "iris-wave-v1",
+      "image": "/companions/v1/iris-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "ea24716c-68e3-4ce8-adaa-5090da4eded6",
+      "sha256": "82d93c6a11de72cdc6837b28671a8587841b8d965d60df33497002238633d94c",
+      "bytes": 45156,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "noah-stand-v1",
+      "image": "/companions/v1/noah-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "72495581-a6b4-4013-9484-762df41750b2",
+      "sha256": "7d9fc1f77ffcb87196eae3341624c2a5215ccc65b8694f2a047a34b7b4b1806b",
+      "bytes": 45624,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "noah-wave-v1",
+      "image": "/companions/v1/noah-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "b26e4f18-d04b-47e7-9ca0-ab27bda7babe",
+      "sha256": "d701bfa254429c6ed7f8e650650bdf3a1565827a1d46e97e1624a93b0a23f72a",
+      "bytes": 55346,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "luna-stand-v1",
+      "image": "/companions/v1/luna-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "6ffe0b82-ebf2-4a3b-88e4-0200b77ea482",
+      "sha256": "26e27c3d355f97a165c83f79fb983741581ead962b994f9fbcfd5b24c870ab15",
+      "bytes": 41892,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "luna-wave-v1",
+      "image": "/companions/v1/luna-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "62ac5836-a14c-45f9-b70f-210ab0ac9e2c",
+      "sha256": "70e0a2ae2536088c8e543f6fc1541b450c698741c1ee2117edb5ec542ef3b9cb",
+      "bytes": 49956,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "kai-stand-v1",
+      "image": "/companions/v1/kai-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "36cd6c3c-d45c-42e5-892b-ffd343cb6081",
+      "sha256": "067b075c517cc413541f88688cc61e8f808a5d0b2ba363001ca22f01d5ed4e75",
+      "bytes": 39676,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "kai-wave-v1",
+      "image": "/companions/v1/kai-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "1088d8e4-7807-42fe-96ca-79b2a9105298",
+      "sha256": "8e110cbc56b7b1743e3006ce9bbc10cc7a54f82aba4bdc6d1086f9bb910f9fbc",
+      "bytes": 52828,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "mikan-stand-v1",
+      "image": "/companions/v1/mikan-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "83652f86-f225-46e5-91bd-4a0f2c427c35",
+      "sha256": "8b5574830b4d59bf2ea7b2587e4f713b086c6ac88bcac20ac2baeefcb23ab138",
+      "bytes": 51408,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "mikan-wave-v1",
+      "image": "/companions/v1/mikan-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "8dd765d4-4536-4aae-ae70-476d6ccf7dab",
+      "sha256": "8ded9d7d53106060ef319e3e6a96cf62f410d4228b4c2f8c16cfa5d63a559122",
+      "bytes": 66284,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "mugi-stand-v1",
+      "image": "/companions/v1/mugi-stand.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "7f1dc8a6-da5b-41e6-968b-8c8747b8b9e3",
+      "sha256": "1ba4953ccc09eb33c85937171bc6ab3c1d3c4c2cfeff48abed7036e53193db66",
+      "bytes": 44098,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    },
+    {
+      "id": "mugi-wave-v1",
+      "image": "/companions/v1/mugi-wave.webp",
+      "model": "FLUX.2 Klein 4B FP8",
+      "localOnly": true,
+      "promptId": "4ec22ec3-9432-41d8-8e14-9c0c95bcd5ab",
+      "sha256": "9a521189001c090408bda49a5ae74d20c3d87e47ae2c3f17f2eec583a6ac0516",
+      "bytes": 57782,
+      "processing": "Removed edge-connected white background and disconnected marks; alpha preserved. Initial generated prototype art; final user assets pending."
+    }
+  ],
+  "unlockableActions": [
+    {
+      "id": "mira-camera-v2",
+      "image": "/companions/v2/mira-camera.webp",
+      "localOnly": true,
+      "promptId": "789194e2-ee18-40b9-a398-9aff5a3f8ff6",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "mira-sit-v2",
+      "image": "/companions/v2/mira-sit.webp",
+      "localOnly": true,
+      "promptId": "2a65b54c-7f25-49e1-91c0-f2f100330308",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "leo-camera-v2",
+      "image": "/companions/v2/leo-camera.webp",
+      "localOnly": true,
+      "promptId": "7337a564-afa1-4947-bebb-6df4861dad22",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "leo-sit-v2",
+      "image": "/companions/v2/leo-sit.webp",
+      "localOnly": true,
+      "promptId": "b2883245-0b0c-443c-a5cd-b20529623639",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "iris-camera-v2",
+      "image": "/companions/v2/iris-camera.webp",
+      "localOnly": true,
+      "promptId": "ccde3c1b-7096-46f5-bd12-72bc2ab0c664",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "iris-sit-v2",
+      "image": "/companions/v2/iris-sit.webp",
+      "localOnly": true,
+      "promptId": "30a8981e-0591-4c21-aa95-288f92e0ff90",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "noah-camera-v2",
+      "image": "/companions/v2/noah-camera.webp",
+      "localOnly": true,
+      "promptId": "e2279c19-591d-47b0-9183-92e69e8b8abe",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "noah-sit-v2",
+      "image": "/companions/v2/noah-sit.webp",
+      "localOnly": true,
+      "promptId": "dfa2130e-4f32-4487-b5ec-6f8e21291d9c",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "luna-camera-v2",
+      "image": "/companions/v2/luna-camera.webp",
+      "localOnly": true,
+      "promptId": "9724ee31-38ab-423c-80c5-5a089438fa37",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "luna-sit-v2",
+      "image": "/companions/v2/luna-sit.webp",
+      "localOnly": true,
+      "promptId": "48d78988-652d-4a64-b248-fd3e5f12ee92",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "kai-camera-v2",
+      "image": "/companions/v2/kai-camera.webp",
+      "localOnly": true,
+      "promptId": "f905e78e-b204-468b-8d32-741dc809c788",
+      "model": "FLUX.2 Klein 4B FP8"
+    },
+    {
+      "id": "kai-sit-v2",
+      "image": "/companions/v2/kai-sit.webp",
+      "localOnly": true,
+      "promptId": "bbbad137-01a3-47e2-a73d-ea7d51151fb2",
+      "model": "FLUX.2 Klein 4B FP8"
+    }
+  ]
+}

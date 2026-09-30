@@ -1,0 +1,30 @@
+{
+  "name": "postcard-melbourne",
+  "version": "0.6.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -b && vite build && node ../tools/build-manifest.mjs && node ../tools/build-worker.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --experimental-strip-types --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "fake-indexeddb": "^6.2.5",
+    "idb": "^8.0.0",
+    "leaflet": "1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260908.1",
+    "@types/leaflet": "^1.9.22",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.1.0",
+    "wrangler": "^4.130.0"
+  }
+}
+

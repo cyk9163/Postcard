@@ -1,0 +1,18 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE IF NOT EXISTS users(id TEXT PRIMARY KEY, username TEXT NOT NULL UNIQUE, display_name TEXT NOT NULL, salt TEXT NOT NULL, password_hash TEXT NOT NULL, recovery_hash TEXT NOT NULL, random_mail INTEGER NOT NULL DEFAULT 0, created_at INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS sessions(hash TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),expires INTEGER NOT NULL);
+CREATE INDEX IF NOT EXISTS sessions_user ON sessions(user_id);
+CREATE TABLE IF NOT EXISTS throttle(key TEXT PRIMARY KEY,count INTEGER NOT NULL,expires INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS snapshots(user_id TEXT PRIMARY KEY REFERENCES users(id),revision INTEGER NOT NULL DEFAULT 0,generation TEXT,updated_at INTEGER);
+CREATE TABLE IF NOT EXISTS chunks(user_id TEXT NOT NULL,generation TEXT NOT NULL,part INTEGER NOT NULL,body TEXT NOT NULL,PRIMARY KEY(user_id,generation,part));
+CREATE TABLE IF NOT EXISTS friendships(sender TEXT NOT NULL,recipient TEXT NOT NULL,status TEXT NOT NULL DEFAULT 'pending',created_at INTEGER NOT NULL,PRIMARY KEY(sender,recipient));
+CREATE INDEX IF NOT EXISTS friend_recipient ON friendships(recipient,status);
+CREATE TABLE IF NOT EXISTS blocks(owner TEXT NOT NULL,target TEXT NOT NULL,PRIMARY KEY(owner,target));
+CREATE TABLE IF NOT EXISTS mail(id TEXT PRIMARY KEY,sender TEXT NOT NULL,recipient TEXT NOT NULL,thread_id TEXT NOT NULL,reply_to TEXT,message TEXT NOT NULL,created_at INTEGER NOT NULL,deliver_at INTEGER NOT NULL);
+CREATE INDEX IF NOT EXISTS mail_recipient ON mail(recipient,created_at);
+CREATE INDEX IF NOT EXISTS mail_sender ON mail(sender,created_at);
+CREATE TABLE IF NOT EXISTS mail_images(mail_id TEXT NOT NULL,part INTEGER NOT NULL,name TEXT NOT NULL,image TEXT NOT NULL,PRIMARY KEY(mail_id,part));
+CREATE TABLE IF NOT EXISTS reports(id TEXT PRIMARY KEY,reporter TEXT NOT NULL,mail_id TEXT NOT NULL,reason TEXT NOT NULL,created_at INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS generators(hash TEXT PRIMARY KEY,owner TEXT NOT NULL,expires INTEGER NOT NULL,last_seen INTEGER);
+CREATE TABLE IF NOT EXISTS jobs(id TEXT PRIMARY KEY,owner TEXT NOT NULL,name TEXT NOT NULL,kind TEXT NOT NULL,prompt TEXT NOT NULL,reference TEXT,state TEXT NOT NULL,created_at INTEGER NOT NULL,lease TEXT,lease_until INTEGER,image TEXT,error TEXT);
+CREATE INDEX IF NOT EXISTS jobs_owner ON jobs(owner,created_at);

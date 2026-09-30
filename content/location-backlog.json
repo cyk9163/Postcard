@@ -1,0 +1,587 @@
+[
+  {
+    "id": "madrid-retiro",
+    "cityId": "madrid",
+    "name": "丽池公园",
+    "english": "El Retiro Park",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.esmadrid.com/en/madrid-neighbourhoods/retiro",
+    "viewBrief": "湖边步道，保留地面与水晶宫或湖景",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "湖边步道，保留地面与水晶宫或湖景；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "madrid-plaza-mayor",
+    "cityId": "madrid",
+    "name": "马约尔广场",
+    "english": "Plaza Mayor",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.esmadrid.com/sites/default/files/guia_madrid_en.pdf",
+    "viewBrief": "从广场地面看拱廊，前景留人物空间",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "B: 同城第二候选",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "从广场地面看拱廊，前景留人物空间；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "milan-sforza",
+    "cityId": "milan",
+    "name": "斯福尔扎城堡",
+    "english": "Sforza Castle",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://citypass.yesmilano.it/en/activities",
+    "viewBrief": "庭院地面朝主塔，避开鸟瞰",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "庭院地面朝主塔，避开鸟瞰；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "milan-brera",
+    "cityId": "milan",
+    "name": "布雷拉美术馆庭院",
+    "english": "Pinacoteca di Brera courtyard",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.yesmilano.it/system/files/pagina_standard/allegati/284/30781/Guida12Genn2024.pdf",
+    "viewBrief": "回廊庭院平视，确认摄影和素材许可",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "B: 同城第二候选",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "回廊庭院平视，确认摄影和素材许可；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "berlin-museum-island",
+    "cityId": "berlin",
+    "name": "博物馆岛",
+    "english": "Museum Island",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.berlin.de/en/attractions-and-sights/3560564-3104052-museum-island.en.html",
+    "viewBrief": "施普雷河岸步道平视博物馆群",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "施普雷河岸步道平视博物馆群；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vienna-belvedere",
+    "cityId": "vienna",
+    "name": "美景宫",
+    "english": "Belvedere",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.wien.info/de/sehen-erleben/sehenswuerdigkeiten-a-z",
+    "viewBrief": "花园路径平视宫殿，留一侧路径",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "花园路径平视宫殿，留一侧路径；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "copenhagen-rosenborg",
+    "cityId": "copenhagen",
+    "name": "罗森堡城堡",
+    "english": "Rosenborg Castle",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.visitcopenhagen.com/copenhagen/neighbourhoods/neighborhoods/what-see-and-do-city-centre",
+    "viewBrief": "花园路径看城堡，前景不跨水面",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "花园路径看城堡，前景不跨水面；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "copenhagen-amalienborg",
+    "cityId": "copenhagen",
+    "name": "阿马林堡宫",
+    "english": "Amalienborg Palace",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.visitcopenhagen.com/copenhagen/planning/amalienborg-palace-gdk492887",
+    "viewBrief": "广场地面视角，避开中央雕像遮挡",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "B: 同城第二候选",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "广场地面视角，避开中央雕像遮挡；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "athens-plaka",
+    "cityId": "athens",
+    "name": "普拉卡街区",
+    "english": "Plaka",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.thisisathens.org/neighbourhoods/plaka-guide",
+    "viewBrief": "有代表性的步行街，确定具体取景路段",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "有代表性的步行街，确定具体取景路段；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "athens-olympian-zeus",
+    "cityId": "athens",
+    "name": "奥林匹亚宙斯神庙",
+    "english": "Temple of Olympian Zeus",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.thisisathens.org/antiquities/temple-olympian-zeus",
+    "viewBrief": "游客步道看柱廊，人物不站在遗址上",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "B: 同城第二候选",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "游客步道看柱廊，人物不站在遗址上；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "san-francisco-fine-arts",
+    "cityId": "san-francisco",
+    "name": "旧金山艺术宫",
+    "english": "Palace of Fine Arts",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.sftravel.com/article/guide-to-san-franciscos-palace-fine-arts",
+    "viewBrief": "湖岸地面视角，保留穹顶，人物站步道",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "湖岸地面视角，保留穹顶，人物站步道；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "san-francisco-painted-ladies",
+    "cityId": "san-francisco",
+    "name": "彩绘仕女屋",
+    "english": "Painted Ladies",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.sftravel.com/things-to-do/attractions/iconic-sf/painted-ladies",
+    "viewBrief": "阿拉莫广场草坡地面视角，建筑保持完整",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "B: 同城第二候选",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "阿拉莫广场草坡地面视角，建筑保持完整；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  },
+  {
+    "id": "stockholm-city-hall",
+    "cityId": "stockholm",
+    "name": "斯德哥尔摩市政厅",
+    "english": "Stockholm City Hall",
+    "status": "location-shortlisted",
+    "priority": "P1",
+    "reason": "现有内容较少，补充旅游代表性与画面类型",
+    "officialSource": "https://www.visitstockholm.com/o/the-city-hall/",
+    "viewBrief": "水岸步道看红砖塔楼，脚底有地面",
+    "referenceImage": null,
+    "coordinates": null,
+    "anchors": null,
+    "variants": null,
+    "generationApproved": false,
+    "planning": {
+      "batch": "A: 每城先补一个差异化地点",
+      "basis": "按现有覆盖和取景差异安排，未获得测试者需求，不是热度排名",
+      "publishedPlaces": 1,
+      "testerRequests": 0,
+      "testerNotes": [],
+      "sourceCheck": "沿用既有官方来源记录；本轮未重新联网核实",
+      "stage": "等待参考照片与机位",
+      "blockers": [
+        "核实具体取景点坐标",
+        "找到许可清楚的参考照片",
+        "确认画面地面及人物锚点",
+        "人工核对三种卡面题材差异"
+      ],
+      "cardBriefs": [
+        {
+          "category": "landmark",
+          "brief": "水岸步道看红砖塔楼，脚底有地面；地标全貌、可识别轮廓，前景留一侧站位"
+        },
+        {
+          "category": "atmosphere",
+          "brief": "选择同地点另一段步道、庭院或街景，体现空间与生活感；不只给全景换颜色"
+        },
+        {
+          "category": "detail",
+          "brief": "选择当地有辨识度的建筑、植物或物件细节；无完整地面时明确不合成人物"
+        }
+      ]
+    }
+  }
+]

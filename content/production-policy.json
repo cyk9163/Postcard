@@ -1,0 +1,5 @@
+{
+  "backgroundGenerationPaused": true,
+  "reason": "先确定地点、参考图视角和角色锚点；目前不生成新背景。",
+  "characterJobsPaused": false
+}

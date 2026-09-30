@@ -1,0 +1,31 @@
+/* Keep essential instructions readable and controls usable at narrow widths. */
+.helper,.setting-card .helper,.preview-note{font-size:13px;color:#53634f}
+.setting-card p,.subheading,.english{color:#53634f}
+.setting-card,.detail-copy,.memory-copy,.discovery-heading>div{min-width:0;overflow-wrap:anywhere}
+.section-title,.memory-actions,.collection-filters{flex-wrap:wrap}
+.map-loading{padding:24px;border:1px solid #cbd2c4;border-radius:12px;line-height:1.8}
+.map-loading button{margin-top:12px}
+select:focus-visible,summary:focus-visible{outline:3px solid #bc613d;outline-offset:4px}
+button:disabled{cursor:not-allowed}
+input,select,textarea{scroll-margin-block:90px}
+.scene canvas{aspect-ratio:1400/770}
+@media(max-width:560px){
+ input,select,textarea{font-size:16px!important}
+ .setting-card{padding:20px}
+ .destination-row-heading,.section-title{gap:10px;align-items:start;flex-wrap:wrap}
+ .destination-row-heading>span,.section-title>span{font-size:12px;color:#53634f}
+ .destination-search button,.category-tabs button,.pose-picker button,.collection-filters button{min-height:44px}
+ .explore-switch{flex-wrap:wrap}
+ .explore-switch button{white-space:nowrap;min-height:44px}
+ .map-toolbar button{min-height:44px}
+ .place-info .english,.place-footer{overflow-wrap:anywhere}
+ .place-footer{flex-wrap:wrap;font-size:12px}
+ .detail-copy h1,.page-heading h1{overflow-wrap:anywhere}
+ .editor-fields,.modal-body{padding-bottom:max(24px,env(safe-area-inset-bottom))}
+ .modal{max-height:calc(100dvh - 20px - env(safe-area-inset-top));overflow-y:auto;overscroll-behavior:contain}
+ .toast{max-width:calc(100vw - 24px);overflow-wrap:anywhere}
+}
+@media(max-width:360px){.edition{display:none}}
+@media(prefers-reduced-motion:reduce){
+ *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+}

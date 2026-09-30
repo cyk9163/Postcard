@@ -1,0 +1,12 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>精选卡面构图检查</title><div id="root"></div><script type="module">
+import React,{useState} from 'react';import{createRoot}from'react-dom/client';
+import{Scene}from'./src/Scene';import{autoComposition}from'./src/companions';import{cardLayout}from'./src/layout';import{placeById,categories}from'./src/content';
+const h=React.createElement;
+function Review(){const[actor,setActor]=useState('mira-stand-v1');const[before,setBefore]=useState(false);
+return h('main',null,h('h1',null,'精选卡面 · 构图对照'),h('p',null,'仅用于本地美术检查，不保存记录，不生成图片。'),
+h('label',null,'角色动作 ',h('select',{value:actor,onChange:e=>setActor(e.target.value)},...['mira-stand-v1','mira-wave-v1','mira-camera-v2','mira-sit-v2','mikan-stand-v1'].map((id,i)=>h('option',{key:id,value:id},['站立','挥手','相机','坐姿','宠物'][i])))),
+h('button',{onClick:()=>setBefore(!before)},before?'查看调整后':'查看调整前'),
+h('section',null,...["flinders", "tokyo-sensoji", "paris-eiffel", "sydney-opera", "sydney-bondi", "london-tower-bridge", "kyoto-kiyomizu", "singapore-botanic", "singapore-merlion", "london-big-ben", "rome-colosseum", "rome-pantheon", "rome-navona", "tokyo-meiji", "london-buckingham"].flatMap(id=>categories.map(c=>{const layout=cardLayout(id,c.id);const pet=actor.startsWith('mikan'),sit=actor.includes('-sit-');const old={assetId:actor,x:actor.includes('-wave-')?.83:.17,y:.98,width:pet?.22:sit?.19:c.id==='detail'?.24:.28,flip:false};const card={id:'review',visitId:'',placeId:id,category:c.id,caption:'',date:'2026-09-11',createdAt:'2026-09-11T00:00:00Z',updatedAt:'2026-09-11T00:00:00Z',templateVersion:2,actor:before?old:autoComposition(id,c.id,actor)};
+return h('article',{key:id+c.id},h('h2',null,placeById(id).name+' · '+c.name),h(Scene,{card,assets:[]}),h('p',null,before?'调整前：通用侧边站位':!layout.human&&!pet?layout.humanNote:'调整后：按这张背景的前景安排合影'));}))))}
+createRoot(document.getElementById('root')).render(h(Review));
+</script><style>body{margin:0;padding:24px;background:#f6f1e5;color:#504833;font:14px system-ui}main{max-width:1500px;margin:auto}h1{font-size:24px}h2{font-size:14px}button,select{padding:12px;margin:8px;min-height:44px}section{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}article{padding:12px;background:#fffaf0;border:1px solid #ddd0b7;border-radius:10px}.scene canvas{display:block;width:100%;height:auto}p{line-height:1.6}@media(max-width:700px){section{grid-template-columns:1fr}}</style></html>

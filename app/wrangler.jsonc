@@ -1,0 +1,6 @@
+{
+  "name": "manyou-melbourne",
+  "pages_build_output_dir": "dist",
+  "compatibility_date": "2026-09-10",
+  "d1_databases": [{"binding":"DB","database_name":"manyou-data","database_id":"753b70c4-8431-4ccb-8585-66754424b28b","migrations_dir":"../server/migrations"}]
+}

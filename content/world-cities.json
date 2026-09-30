@@ -1,0 +1,1780 @@
+[
+  {
+    "id": "melbourne",
+    "name": "墨尔本",
+    "english": "Melbourne",
+    "country": "澳大利亚",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": "tokyo",
+    "name": "东京",
+    "english": "Tokyo",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "sensoji",
+        "浅草寺",
+        "Sensō-ji"
+      ],
+      [
+        "tokyo-tower",
+        "东京塔",
+        "Tokyo Tower"
+      ],
+      [
+        "meiji",
+        "明治神宫",
+        "Meiji Shrine"
+      ],
+      [
+        "skytree",
+        "东京晴空塔",
+        "Tokyo Skytree"
+      ],
+      [
+        "shibuya",
+        "涩谷十字路口",
+        "Shibuya Crossing"
+      ],
+      [
+        "shinjuku-garden",
+        "新宿御苑",
+        "Shinjuku Gyo-en"
+      ]
+    ]
+  },
+  {
+    "id": "kyoto",
+    "name": "京都",
+    "english": "Kyoto",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "kiyomizu",
+        "清水寺",
+        "Kiyomizu-dera"
+      ],
+      [
+        "fushimi",
+        "伏见稻荷大社",
+        "Fushimi Inari-taisha"
+      ],
+      [
+        "kinkakuji",
+        "金阁寺",
+        "Kinkaku-ji"
+      ],
+      [
+        "nijo",
+        "二条城",
+        "Nijō Castle"
+      ],
+      [
+        "bamboo",
+        "岚山竹林",
+        "Bamboo Forest (Kyoto, Japan)"
+      ]
+    ]
+  },
+  {
+    "id": "osaka",
+    "name": "大阪",
+    "english": "Osaka",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "castle",
+        "大阪城",
+        "Osaka Castle"
+      ],
+      [
+        "dotonbori",
+        "道顿堀",
+        "Dōtonbori"
+      ],
+      [
+        "tsutenkaku",
+        "通天阁",
+        "Tsūtenkaku"
+      ]
+    ]
+  },
+  {
+    "id": "seoul",
+    "name": "首尔",
+    "english": "Seoul",
+    "country": "韩国",
+    "timezone": "Asia/Seoul",
+    "spots": [
+      [
+        "gyeongbokgung",
+        "景福宫",
+        "Gyeongbokgung"
+      ],
+      [
+        "tower",
+        "首尔塔",
+        "N Seoul Tower"
+      ],
+      [
+        "bukchon",
+        "北村韩屋村",
+        "Bukchon Hanok Village"
+      ],
+      [
+        "dongdaemun",
+        "东大门设计广场",
+        "Dongdaemun Design Plaza"
+      ]
+    ]
+  },
+  {
+    "id": "hong-kong",
+    "name": "香港",
+    "english": "Hong Kong",
+    "country": "中国",
+    "timezone": "Asia/Hong_Kong",
+    "spots": [
+      [
+        "peak",
+        "太平山顶",
+        "Victoria Peak"
+      ],
+      [
+        "clock-tower",
+        "尖沙咀钟楼",
+        "Clock Tower, Hong Kong"
+      ],
+      [
+        "buddha",
+        "天坛大佛",
+        "Tian Tan Buddha"
+      ],
+      [
+        "avenue-stars",
+        "星光大道",
+        "Avenue of Stars, Hong Kong"
+      ],
+      [
+        "chi-lin",
+        "志莲净苑",
+        "Chi Lin Nunnery"
+      ]
+    ]
+  },
+  {
+    "id": "macau",
+    "name": "澳门",
+    "english": "Macau",
+    "country": "中国",
+    "timezone": "Asia/Macau",
+    "spots": [
+      [
+        "st-pauls",
+        "大三巴牌坊",
+        "Ruins of Saint Paul's"
+      ],
+      [
+        "senado",
+        "议事亭前地",
+        "Senado Square"
+      ],
+      [
+        "a-ma",
+        "妈阁庙",
+        "A-Ma Temple"
+      ]
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "新加坡",
+    "english": "Singapore",
+    "country": "新加坡",
+    "timezone": "Asia/Singapore",
+    "spots": [
+      [
+        "merlion",
+        "鱼尾狮公园",
+        "Merlion Park"
+      ],
+      [
+        "gardens",
+        "滨海湾花园",
+        "Gardens by the Bay"
+      ],
+      [
+        "marina",
+        "滨海湾金沙",
+        "Marina Bay Sands"
+      ],
+      [
+        "botanic",
+        "新加坡植物园",
+        "Singapore Botanic Gardens"
+      ],
+      [
+        "jewel",
+        "星耀樟宜",
+        "Jewel Changi Airport"
+      ]
+    ]
+  },
+  {
+    "id": "bangkok",
+    "name": "曼谷",
+    "english": "Bangkok",
+    "country": "泰国",
+    "timezone": "Asia/Bangkok",
+    "spots": [
+      [
+        "wat-arun",
+        "郑王庙",
+        "Wat Arun"
+      ],
+      [
+        "grand-palace",
+        "大皇宫",
+        "Grand Palace"
+      ],
+      [
+        "wat-pho",
+        "卧佛寺",
+        "Wat Pho"
+      ],
+      [
+        "marble-temple",
+        "云石寺",
+        "Wat Benchamabophit"
+      ],
+      [
+        "golden-buddha",
+        "金佛寺",
+        "Wat Traimit"
+      ],
+      [
+        "wat-saket",
+        "金山寺",
+        "Wat Saket"
+      ]
+    ]
+  },
+  {
+    "id": "kuala-lumpur",
+    "name": "吉隆坡",
+    "english": "Kuala Lumpur",
+    "country": "马来西亚",
+    "timezone": "Asia/Kuala_Lumpur",
+    "spots": [
+      [
+        "petronas",
+        "双子塔",
+        "Petronas Towers"
+      ],
+      [
+        "merdeka",
+        "独立广场",
+        "Merdeka Square, Kuala Lumpur"
+      ],
+      [
+        "thean-hou",
+        "天后宫",
+        "Thean Hou Temple"
+      ]
+    ]
+  },
+  {
+    "id": "paris",
+    "name": "巴黎",
+    "english": "Paris",
+    "country": "法国",
+    "timezone": "Europe/Paris",
+    "spots": [
+      [
+        "eiffel",
+        "埃菲尔铁塔",
+        "Eiffel Tower"
+      ],
+      [
+        "louvre",
+        "卢浮宫",
+        "Louvre"
+      ],
+      [
+        "arc",
+        "凯旋门",
+        "Arc de Triomphe"
+      ],
+      [
+        "notre-dame",
+        "巴黎圣母院",
+        "Notre-Dame de Paris"
+      ],
+      [
+        "sacre-coeur",
+        "圣心大教堂",
+        "Sacré-Cœur, Paris"
+      ],
+      [
+        "orsay",
+        "奥赛博物馆",
+        "Musée d'Orsay"
+      ],
+      [
+        "luxembourg",
+        "卢森堡公园",
+        "Jardin du Luxembourg"
+      ]
+    ]
+  },
+  {
+    "id": "london",
+    "name": "伦敦",
+    "english": "London",
+    "country": "英国",
+    "timezone": "Europe/London",
+    "spots": [
+      [
+        "big-ben",
+        "大本钟",
+        "Big Ben"
+      ],
+      [
+        "tower-bridge",
+        "伦敦塔桥",
+        "Tower Bridge"
+      ],
+      [
+        "buckingham",
+        "白金汉宫",
+        "Buckingham Palace"
+      ],
+      [
+        "london-eye",
+        "伦敦眼",
+        "London Eye"
+      ],
+      [
+        "british-museum",
+        "大英博物馆",
+        "British Museum"
+      ],
+      [
+        "tower-london",
+        "伦敦塔",
+        "Tower of London"
+      ]
+    ]
+  },
+  {
+    "id": "rome",
+    "name": "罗马",
+    "english": "Rome",
+    "country": "意大利",
+    "timezone": "Europe/Rome",
+    "spots": [
+      [
+        "colosseum",
+        "斗兽场",
+        "Colosseum"
+      ],
+      [
+        "trevi",
+        "特雷维喷泉",
+        "Trevi Fountain"
+      ],
+      [
+        "pantheon",
+        "万神殿",
+        "Pantheon, Rome"
+      ],
+      [
+        "forum",
+        "古罗马广场",
+        "Roman Forum"
+      ],
+      [
+        "spanish-steps",
+        "西班牙阶梯",
+        "Spanish Steps"
+      ],
+      [
+        "navona",
+        "纳沃纳广场",
+        "Piazza Navona"
+      ]
+    ]
+  },
+  {
+    "id": "barcelona",
+    "name": "巴塞罗那",
+    "english": "Barcelona",
+    "country": "西班牙",
+    "timezone": "Europe/Madrid",
+    "spots": [
+      [
+        "sagrada",
+        "圣家堂",
+        "Sagrada Família"
+      ],
+      [
+        "park-guell",
+        "古埃尔公园",
+        "Park Güell"
+      ],
+      [
+        "casa-batllo",
+        "巴特罗之家",
+        "Casa Batlló"
+      ],
+      [
+        "montjuic",
+        "蒙锥克国家宫",
+        "Palau Nacional"
+      ]
+    ]
+  },
+  {
+    "id": "amsterdam",
+    "name": "阿姆斯特丹",
+    "english": "Amsterdam",
+    "country": "荷兰",
+    "timezone": "Europe/Amsterdam",
+    "spots": [
+      [
+        "rijksmuseum",
+        "国立博物馆",
+        "Rijksmuseum"
+      ],
+      [
+        "royal-palace",
+        "阿姆斯特丹王宫",
+        "Royal Palace of Amsterdam"
+      ],
+      [
+        "magere-brug",
+        "瘦桥",
+        "Magere Brug"
+      ]
+    ]
+  },
+  {
+    "id": "istanbul",
+    "name": "伊斯坦布尔",
+    "english": "Istanbul",
+    "country": "土耳其",
+    "timezone": "Europe/Istanbul",
+    "spots": [
+      [
+        "hagia-sophia",
+        "圣索菲亚大教堂",
+        "Hagia Sophia"
+      ],
+      [
+        "blue-mosque",
+        "蓝色清真寺",
+        "Blue Mosque, Istanbul"
+      ],
+      [
+        "galata",
+        "加拉塔塔",
+        "Galata Tower"
+      ],
+      [
+        "cistern",
+        "地下水宫",
+        "Basilica Cistern"
+      ],
+      [
+        "topkapi",
+        "托普卡帕宫",
+        "Topkapı Palace"
+      ]
+    ]
+  },
+  {
+    "id": "dubai",
+    "name": "迪拜",
+    "english": "Dubai",
+    "country": "阿联酋",
+    "timezone": "Asia/Dubai",
+    "spots": [
+      [
+        "burj-khalifa",
+        "哈利法塔",
+        "Burj Khalifa"
+      ],
+      [
+        "burj-al-arab",
+        "帆船酒店",
+        "Burj Al Arab"
+      ],
+      [
+        "frame",
+        "迪拜之框",
+        "Dubai Frame"
+      ],
+      [
+        "palm",
+        "朱美拉棕榈岛",
+        "Palm Jumeirah"
+      ]
+    ]
+  },
+  {
+    "id": "new-york",
+    "name": "纽约",
+    "english": "New York",
+    "country": "美国",
+    "timezone": "America/New_York",
+    "spots": [
+      [
+        "liberty",
+        "自由女神像",
+        "Statue of Liberty"
+      ],
+      [
+        "brooklyn",
+        "布鲁克林大桥",
+        "Brooklyn Bridge"
+      ],
+      [
+        "empire",
+        "帝国大厦",
+        "Empire State Building"
+      ],
+      [
+        "central-park",
+        "中央公园",
+        "Central Park"
+      ],
+      [
+        "times-square",
+        "时代广场",
+        "Times Square"
+      ]
+    ]
+  },
+  {
+    "id": "sydney",
+    "name": "悉尼",
+    "english": "Sydney",
+    "country": "澳大利亚",
+    "timezone": "Australia/Sydney",
+    "spots": [
+      [
+        "opera",
+        "悉尼歌剧院",
+        "Sydney Opera House"
+      ],
+      [
+        "harbour-bridge",
+        "悉尼海港大桥",
+        "Sydney Harbour Bridge"
+      ],
+      [
+        "bondi",
+        "邦迪海滩",
+        "Bondi Beach"
+      ],
+      [
+        "qvb",
+        "维多利亚女王大厦",
+        "Queen Victoria Building"
+      ]
+    ]
+  },
+  {
+    "id": "taipei",
+    "name": "台北",
+    "english": "Taipei",
+    "country": "中国台湾",
+    "timezone": "Asia/Taipei",
+    "spots": [
+      [
+        "taipei-101",
+        "台北101",
+        "Taipei 101"
+      ],
+      [
+        "memorial",
+        "中正纪念堂",
+        "Chiang Kai-shek Memorial Hall"
+      ],
+      [
+        "longshan",
+        "龙山寺",
+        "Lungshan Temple"
+      ],
+      [
+        "palace-museum",
+        "台北故宫博物院",
+        "National Palace Museum"
+      ]
+    ]
+  },
+  {
+    "id": "madrid",
+    "name": "马德里",
+    "english": "Madrid",
+    "country": "西班牙",
+    "timezone": "Europe/Madrid",
+    "spots": [
+      [
+        "palace",
+        "马德里王宫",
+        "Royal Palace of Madrid"
+      ]
+    ]
+  },
+  {
+    "id": "milan",
+    "name": "米兰",
+    "english": "Milan",
+    "country": "意大利",
+    "timezone": "Europe/Rome",
+    "spots": [
+      [
+        "duomo",
+        "米兰大教堂",
+        "Milan Cathedral"
+      ]
+    ]
+  },
+  {
+    "id": "venice",
+    "name": "威尼斯",
+    "english": "Venice",
+    "country": "意大利",
+    "timezone": "Europe/Rome",
+    "spots": [
+      [
+        "rialto",
+        "里亚托桥",
+        "Rialto Bridge"
+      ],
+      [
+        "san-marco",
+        "圣马可大教堂",
+        "St Mark's Basilica"
+      ]
+    ]
+  },
+  {
+    "id": "florence",
+    "name": "佛罗伦萨",
+    "english": "Florence",
+    "country": "意大利",
+    "timezone": "Europe/Rome",
+    "spots": [
+      [
+        "duomo",
+        "圣母百花大教堂",
+        "Florence Cathedral"
+      ],
+      [
+        "ponte-vecchio",
+        "老桥",
+        "Ponte Vecchio"
+      ]
+    ]
+  },
+  {
+    "id": "naples",
+    "name": "那不勒斯",
+    "english": "Naples",
+    "country": "意大利",
+    "timezone": "Europe/Rome",
+    "spots": [
+      [
+        "castel",
+        "蛋堡",
+        "Castel dell'Ovo"
+      ]
+    ]
+  },
+  {
+    "id": "lisbon",
+    "name": "里斯本",
+    "english": "Lisbon",
+    "country": "葡萄牙",
+    "timezone": "Europe/Lisbon",
+    "spots": [
+      [
+        "belem",
+        "贝伦塔",
+        "Belém Tower"
+      ],
+      [
+        "jeronimos",
+        "热罗尼莫斯修道院",
+        "Jerónimos Monastery"
+      ]
+    ]
+  },
+  {
+    "id": "porto",
+    "name": "波尔图",
+    "english": "Porto",
+    "country": "葡萄牙",
+    "timezone": "Europe/Lisbon",
+    "spots": [
+      [
+        "bridge",
+        "路易一世大桥",
+        "Dom Luís I Bridge"
+      ]
+    ]
+  },
+  {
+    "id": "athens",
+    "name": "雅典",
+    "english": "Athens",
+    "country": "希腊",
+    "timezone": "Europe/Athens",
+    "spots": [
+      [
+        "parthenon",
+        "帕特农神庙",
+        "Parthenon"
+      ]
+    ]
+  },
+  {
+    "id": "vienna",
+    "name": "维也纳",
+    "english": "Vienna",
+    "country": "奥地利",
+    "timezone": "Europe/Vienna",
+    "spots": [
+      [
+        "schonbrunn",
+        "美泉宫",
+        "Schönbrunn Palace"
+      ]
+    ]
+  },
+  {
+    "id": "prague",
+    "name": "布拉格",
+    "english": "Prague",
+    "country": "捷克",
+    "timezone": "Europe/Prague",
+    "spots": [
+      [
+        "charles",
+        "查理大桥",
+        "Charles Bridge"
+      ],
+      [
+        "astronomical-clock",
+        "布拉格天文钟",
+        "Prague astronomical clock"
+      ]
+    ]
+  },
+  {
+    "id": "budapest",
+    "name": "布达佩斯",
+    "english": "Budapest",
+    "country": "匈牙利",
+    "timezone": "Europe/Budapest",
+    "spots": [
+      [
+        "parliament",
+        "匈牙利国会大厦",
+        "Hungarian Parliament Building"
+      ]
+    ]
+  },
+  {
+    "id": "berlin",
+    "name": "柏林",
+    "english": "Berlin",
+    "country": "德国",
+    "timezone": "Europe/Berlin",
+    "spots": [
+      [
+        "brandenburg",
+        "勃兰登堡门",
+        "Brandenburg Gate"
+      ]
+    ]
+  },
+  {
+    "id": "munich",
+    "name": "慕尼黑",
+    "english": "Munich",
+    "country": "德国",
+    "timezone": "Europe/Berlin",
+    "spots": [
+      [
+        "townhall",
+        "慕尼黑新市政厅",
+        "New Town Hall, Munich"
+      ]
+    ]
+  },
+  {
+    "id": "copenhagen",
+    "name": "哥本哈根",
+    "english": "Copenhagen",
+    "country": "丹麦",
+    "timezone": "Europe/Copenhagen",
+    "spots": [
+      [
+        "nyhavn",
+        "新港",
+        "Nyhavn"
+      ]
+    ]
+  },
+  {
+    "id": "stockholm",
+    "name": "斯德哥尔摩",
+    "english": "Stockholm",
+    "country": "瑞典",
+    "timezone": "Europe/Stockholm",
+    "spots": [
+      [
+        "cityhall",
+        "斯德哥尔摩市政厅",
+        "Stockholm City Hall"
+      ]
+    ]
+  },
+  {
+    "id": "oslo",
+    "name": "奥斯陆",
+    "english": "Oslo",
+    "country": "挪威",
+    "timezone": "Europe/Oslo",
+    "spots": [
+      [
+        "opera",
+        "奥斯陆歌剧院",
+        "Oslo Opera House"
+      ]
+    ]
+  },
+  {
+    "id": "helsinki",
+    "name": "赫尔辛基",
+    "english": "Helsinki",
+    "country": "芬兰",
+    "timezone": "Europe/Helsinki",
+    "spots": [
+      [
+        "cathedral",
+        "赫尔辛基大教堂",
+        "Helsinki Cathedral"
+      ]
+    ]
+  },
+  {
+    "id": "zurich",
+    "name": "苏黎世",
+    "english": "Zurich",
+    "country": "瑞士",
+    "timezone": "Europe/Zurich",
+    "spots": [
+      [
+        "grossmunster",
+        "苏黎世大教堂",
+        "Grossmünster"
+      ]
+    ]
+  },
+  {
+    "id": "lucerne",
+    "name": "卢塞恩",
+    "english": "Lucerne",
+    "country": "瑞士",
+    "timezone": "Europe/Zurich",
+    "spots": [
+      [
+        "chapel",
+        "卡佩尔廊桥",
+        "Kapellbrücke"
+      ]
+    ]
+  },
+  {
+    "id": "geneva",
+    "name": "日内瓦",
+    "english": "Geneva",
+    "country": "瑞士",
+    "timezone": "Europe/Zurich",
+    "spots": [
+      [
+        "jet",
+        "日内瓦大喷泉",
+        "Jet d'Eau"
+      ]
+    ]
+  },
+  {
+    "id": "brussels",
+    "name": "布鲁塞尔",
+    "english": "Brussels",
+    "country": "比利时",
+    "timezone": "Europe/Brussels",
+    "spots": [
+      [
+        "grandplace",
+        "布鲁塞尔大广场",
+        "Grand-Place"
+      ]
+    ]
+  },
+  {
+    "id": "bruges",
+    "name": "布鲁日",
+    "english": "Bruges",
+    "country": "比利时",
+    "timezone": "Europe/Brussels",
+    "spots": [
+      [
+        "belfry",
+        "布鲁日钟楼",
+        "Belfry of Bruges"
+      ]
+    ]
+  },
+  {
+    "id": "edinburgh",
+    "name": "爱丁堡",
+    "english": "Edinburgh",
+    "country": "英国",
+    "timezone": "Europe/London",
+    "spots": [
+      [
+        "castle",
+        "爱丁堡城堡",
+        "Edinburgh Castle"
+      ]
+    ]
+  },
+  {
+    "id": "dublin",
+    "name": "都柏林",
+    "english": "Dublin",
+    "country": "爱尔兰",
+    "timezone": "Europe/Dublin",
+    "spots": [
+      [
+        "trinity",
+        "都柏林圣三一学院",
+        "Trinity College Dublin"
+      ]
+    ]
+  },
+  {
+    "id": "nice",
+    "name": "尼斯",
+    "english": "Nice",
+    "country": "法国",
+    "timezone": "Europe/Paris",
+    "spots": [
+      [
+        "promenade",
+        "英国人散步大道",
+        "Promenade des Anglais"
+      ]
+    ]
+  },
+  {
+    "id": "seville",
+    "name": "塞维利亚",
+    "english": "Seville",
+    "country": "西班牙",
+    "timezone": "Europe/Madrid",
+    "spots": [
+      [
+        "plaza",
+        "塞维利亚西班牙广场",
+        "Plaza de España, Seville"
+      ]
+    ]
+  },
+  {
+    "id": "granada",
+    "name": "格拉纳达",
+    "english": "Granada",
+    "country": "西班牙",
+    "timezone": "Europe/Madrid",
+    "spots": [
+      [
+        "alhambra",
+        "阿尔罕布拉宫",
+        "Alhambra"
+      ]
+    ]
+  },
+  {
+    "id": "dubrovnik",
+    "name": "杜布罗夫尼克",
+    "english": "Dubrovnik",
+    "country": "克罗地亚",
+    "timezone": "Europe/Zagreb",
+    "spots": [
+      [
+        "walls",
+        "杜布罗夫尼克城墙",
+        "Walls of Dubrovnik"
+      ]
+    ]
+  },
+  {
+    "id": "beijing",
+    "name": "北京",
+    "english": "Beijing",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "temple-heaven",
+        "天坛",
+        "Temple of Heaven"
+      ],
+      [
+        "forbidden-city",
+        "故宫",
+        "Forbidden City"
+      ],
+      [
+        "summer-palace",
+        "颐和园",
+        "Summer Palace"
+      ]
+    ]
+  },
+  {
+    "id": "shanghai",
+    "name": "上海",
+    "english": "Shanghai",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "bund",
+        "外滩",
+        "The Bund"
+      ],
+      [
+        "yuyuan",
+        "豫园",
+        "Yu Garden"
+      ]
+    ]
+  },
+  {
+    "id": "xian",
+    "name": "西安",
+    "english": "Xi'an",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "pagoda",
+        "大雁塔",
+        "Giant Wild Goose Pagoda"
+      ]
+    ]
+  },
+  {
+    "id": "chengdu",
+    "name": "成都",
+    "english": "Chengdu",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "jinli",
+        "锦里",
+        "Jinli"
+      ]
+    ]
+  },
+  {
+    "id": "hangzhou",
+    "name": "杭州",
+    "english": "Hangzhou",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "westlake",
+        "西湖",
+        "West Lake"
+      ]
+    ]
+  },
+  {
+    "id": "suzhou",
+    "name": "苏州",
+    "english": "Suzhou",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "garden",
+        "拙政园",
+        "Humble Administrator's Garden"
+      ]
+    ]
+  },
+  {
+    "id": "guangzhou",
+    "name": "广州",
+    "english": "Guangzhou",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "canton",
+        "广州塔",
+        "Canton Tower"
+      ]
+    ]
+  },
+  {
+    "id": "shenzhen",
+    "name": "深圳",
+    "english": "Shenzhen",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "pingan",
+        "平安金融中心",
+        "Ping An Finance Centre"
+      ]
+    ]
+  },
+  {
+    "id": "guilin",
+    "name": "桂林",
+    "english": "Guilin",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "elephant",
+        "象鼻山",
+        "Elephant Trunk Hill"
+      ]
+    ]
+  },
+  {
+    "id": "lijiang",
+    "name": "丽江",
+    "english": "Lijiang",
+    "country": "中国",
+    "timezone": "Asia/Shanghai",
+    "spots": [
+      [
+        "oldtown",
+        "丽江古城",
+        "Old Town of Lijiang"
+      ]
+    ]
+  },
+  {
+    "id": "busan",
+    "name": "釜山",
+    "english": "Busan",
+    "country": "韩国",
+    "timezone": "Asia/Seoul",
+    "spots": [
+      [
+        "haedong",
+        "海东龙宫寺",
+        "Haedong Yonggungsa"
+      ]
+    ]
+  },
+  {
+    "id": "jeju",
+    "name": "济州",
+    "english": "Jeju",
+    "country": "韩国",
+    "timezone": "Asia/Seoul",
+    "spots": [
+      [
+        "samseong",
+        "三姓穴",
+        "Samseonghyeol"
+      ]
+    ]
+  },
+  {
+    "id": "fukuoka",
+    "name": "福冈",
+    "english": "Fukuoka",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "tower",
+        "福冈塔",
+        "Fukuoka Tower"
+      ]
+    ]
+  },
+  {
+    "id": "sapporo",
+    "name": "札幌",
+    "english": "Sapporo",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "clock",
+        "札幌钟楼",
+        "Sapporo Clock Tower"
+      ]
+    ]
+  },
+  {
+    "id": "yokohama",
+    "name": "横滨",
+    "english": "Yokohama",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "warehouse",
+        "横滨红砖仓库",
+        "Yokohama Red Brick Warehouse"
+      ]
+    ]
+  },
+  {
+    "id": "hiroshima",
+    "name": "广岛",
+    "english": "Hiroshima",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "memorial",
+        "广岛和平纪念碑",
+        "Hiroshima Peace Memorial"
+      ]
+    ]
+  },
+  {
+    "id": "nara",
+    "name": "奈良",
+    "english": "Nara",
+    "country": "日本",
+    "timezone": "Asia/Tokyo",
+    "spots": [
+      [
+        "todaiji",
+        "东大寺",
+        "Tōdai-ji"
+      ]
+    ]
+  },
+  {
+    "id": "hanoi",
+    "name": "河内",
+    "english": "Hanoi",
+    "country": "越南",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "spots": [
+      [
+        "temple",
+        "河内文庙",
+        "Temple of Literature, Hanoi"
+      ]
+    ]
+  },
+  {
+    "id": "ho-chi-minh",
+    "name": "胡志明市",
+    "english": "Ho Chi Minh City",
+    "country": "越南",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "spots": [
+      [
+        "postoffice",
+        "西贡中央邮局",
+        "Saigon Central Post Office"
+      ]
+    ]
+  },
+  {
+    "id": "da-nang",
+    "name": "岘港",
+    "english": "Da Nang",
+    "country": "越南",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "spots": [
+      [
+        "dragon",
+        "龙桥",
+        "Dragon Bridge, Da Nang"
+      ]
+    ]
+  },
+  {
+    "id": "hoi-an",
+    "name": "会安",
+    "english": "Hoi An",
+    "country": "越南",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "spots": [
+      [
+        "bridge",
+        "日本桥",
+        "Japanese Covered Bridge"
+      ]
+    ]
+  },
+  {
+    "id": "siem-reap",
+    "name": "暹粒",
+    "english": "Siem Reap",
+    "country": "柬埔寨",
+    "timezone": "Asia/Phnom_Penh",
+    "spots": [
+      [
+        "angkor",
+        "吴哥窟",
+        "Angkor Wat"
+      ]
+    ]
+  },
+  {
+    "id": "phnom-penh",
+    "name": "金边",
+    "english": "Phnom Penh",
+    "country": "柬埔寨",
+    "timezone": "Asia/Phnom_Penh",
+    "spots": [
+      [
+        "palace",
+        "金边王宫",
+        "Royal Palace of Cambodia"
+      ]
+    ]
+  },
+  {
+    "id": "chiang-mai",
+    "name": "清迈",
+    "english": "Chiang Mai",
+    "country": "泰国",
+    "timezone": "Asia/Bangkok",
+    "spots": [
+      [
+        "chedi",
+        "契迪龙寺",
+        "Wat Chedi Luang"
+      ]
+    ]
+  },
+  {
+    "id": "phuket",
+    "name": "普吉",
+    "english": "Phuket",
+    "country": "泰国",
+    "timezone": "Asia/Bangkok",
+    "spots": [
+      [
+        "oldtown",
+        "普吉老城",
+        "Old Phuket Town"
+      ]
+    ]
+  },
+  {
+    "id": "george-town",
+    "name": "乔治市",
+    "english": "George Town",
+    "country": "马来西亚",
+    "timezone": "Asia/Kuala_Lumpur",
+    "spots": [
+      [
+        "khoo",
+        "邱公司",
+        "Khoo Kongsi"
+      ]
+    ]
+  },
+  {
+    "id": "yogyakarta",
+    "name": "日惹",
+    "english": "Yogyakarta",
+    "country": "印度尼西亚",
+    "timezone": "Asia/Jakarta",
+    "spots": [
+      [
+        "taman",
+        "水宫",
+        "Taman Sari, Yogyakarta"
+      ]
+    ]
+  },
+  {
+    "id": "ubud",
+    "name": "乌布",
+    "english": "Ubud",
+    "country": "印度尼西亚",
+    "timezone": "Asia/Makassar",
+    "spots": [
+      [
+        "saraswati",
+        "萨拉斯瓦蒂寺",
+        "Pura Taman Saraswati"
+      ]
+    ]
+  },
+  {
+    "id": "los-angeles",
+    "name": "洛杉矶",
+    "english": "Los Angeles",
+    "country": "美国",
+    "timezone": "America/Los_Angeles",
+    "spots": [
+      [
+        "griffith",
+        "格里菲斯天文台",
+        "Griffith Observatory"
+      ]
+    ]
+  },
+  {
+    "id": "san-francisco",
+    "name": "旧金山",
+    "english": "San Francisco",
+    "country": "美国",
+    "timezone": "America/Los_Angeles",
+    "spots": [
+      [
+        "golden-gate",
+        "金门大桥",
+        "Golden Gate Bridge"
+      ]
+    ]
+  },
+  {
+    "id": "las-vegas",
+    "name": "拉斯维加斯",
+    "english": "Las Vegas",
+    "country": "美国",
+    "timezone": "America/Los_Angeles",
+    "spots": [
+      [
+        "bellagio",
+        "百乐宫",
+        "Bellagio, Las Vegas"
+      ]
+    ]
+  },
+  {
+    "id": "chicago",
+    "name": "芝加哥",
+    "english": "Chicago",
+    "country": "美国",
+    "timezone": "America/Chicago",
+    "spots": [
+      [
+        "cloudgate",
+        "云门",
+        "Cloud Gate"
+      ]
+    ]
+  },
+  {
+    "id": "boston",
+    "name": "波士顿",
+    "english": "Boston",
+    "country": "美国",
+    "timezone": "America/New_York",
+    "spots": [
+      [
+        "faneuil",
+        "法尼尔厅",
+        "Faneuil Hall"
+      ]
+    ]
+  },
+  {
+    "id": "washington",
+    "name": "华盛顿",
+    "english": "Washington, D.C.",
+    "country": "美国",
+    "timezone": "America/New_York",
+    "spots": [
+      [
+        "lincoln",
+        "林肯纪念堂",
+        "Lincoln Memorial"
+      ]
+    ]
+  },
+  {
+    "id": "vancouver",
+    "name": "温哥华",
+    "english": "Vancouver",
+    "country": "加拿大",
+    "timezone": "America/Vancouver",
+    "spots": [
+      [
+        "lighthouse",
+        "布罗克顿角灯塔",
+        "Brockton Point Lighthouse"
+      ]
+    ]
+  },
+  {
+    "id": "toronto",
+    "name": "多伦多",
+    "english": "Toronto",
+    "country": "加拿大",
+    "timezone": "America/Toronto",
+    "spots": [
+      [
+        "cntower",
+        "加拿大国家电视塔",
+        "CN Tower"
+      ]
+    ]
+  },
+  {
+    "id": "montreal",
+    "name": "蒙特利尔",
+    "english": "Montreal",
+    "country": "加拿大",
+    "timezone": "America/Toronto",
+    "spots": [
+      [
+        "notredame",
+        "蒙特利尔圣母大教堂",
+        "Notre-Dame Basilica, Montreal"
+      ]
+    ]
+  },
+  {
+    "id": "quebec",
+    "name": "魁北克城",
+    "english": "Quebec City",
+    "country": "加拿大",
+    "timezone": "America/Toronto",
+    "spots": [
+      [
+        "frontenac",
+        "芳堤娜城堡",
+        "Château Frontenac"
+      ]
+    ]
+  },
+  {
+    "id": "mexico-city",
+    "name": "墨西哥城",
+    "english": "Mexico City",
+    "country": "墨西哥",
+    "timezone": "America/Mexico_City",
+    "spots": [
+      [
+        "bellasartes",
+        "墨西哥城艺术宫",
+        "Palacio de Bellas Artes"
+      ]
+    ]
+  },
+  {
+    "id": "cancun",
+    "name": "坎昆",
+    "english": "Cancún",
+    "country": "墨西哥",
+    "timezone": "America/Cancun",
+    "spots": [
+      [
+        "elrey",
+        "埃尔雷遗址",
+        "El Rey archaeological site"
+      ]
+    ]
+  },
+  {
+    "id": "rio",
+    "name": "里约热内卢",
+    "english": "Rio de Janeiro",
+    "country": "巴西",
+    "timezone": "America/Sao_Paulo",
+    "spots": [
+      [
+        "christ",
+        "基督像",
+        "Christ the Redeemer, Rio de Janeiro"
+      ]
+    ]
+  },
+  {
+    "id": "buenos-aires",
+    "name": "布宜诺斯艾利斯",
+    "english": "Buenos Aires",
+    "country": "阿根廷",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "spots": [
+      [
+        "casa",
+        "玫瑰宫",
+        "Casa Rosada"
+      ]
+    ]
+  },
+  {
+    "id": "auckland",
+    "name": "奥克兰",
+    "english": "Auckland",
+    "country": "新西兰",
+    "timezone": "Pacific/Auckland",
+    "spots": [
+      [
+        "skytower",
+        "奥克兰天空塔",
+        "Sky Tower, Auckland"
+      ]
+    ]
+  },
+  {
+    "id": "queenstown",
+    "name": "皇后镇",
+    "english": "Queenstown",
+    "country": "新西兰",
+    "timezone": "Pacific/Auckland",
+    "spots": [
+      [
+        "gardens",
+        "皇后镇花园",
+        "Queenstown Gardens"
+      ]
+    ]
+  },
+  {
+    "id": "wellington",
+    "name": "惠灵顿",
+    "english": "Wellington",
+    "country": "新西兰",
+    "timezone": "Pacific/Auckland",
+    "spots": [
+      [
+        "beehive",
+        "蜂巢大厦",
+        "Beehive, New Zealand"
+      ]
+    ]
+  },
+  {
+    "id": "brisbane",
+    "name": "布里斯班",
+    "english": "Brisbane",
+    "country": "澳大利亚",
+    "timezone": "Australia/Brisbane",
+    "spots": [
+      [
+        "storybridge",
+        "故事桥",
+        "Story Bridge"
+      ]
+    ]
+  },
+  {
+    "id": "perth",
+    "name": "珀斯",
+    "english": "Perth",
+    "country": "澳大利亚",
+    "timezone": "Australia/Perth",
+    "spots": [
+      [
+        "swanbells",
+        "天鹅钟塔",
+        "Swan Bells"
+      ]
+    ]
+  },
+  {
+    "id": "cairo",
+    "name": "开罗",
+    "english": "Cairo",
+    "country": "埃及",
+    "timezone": "Africa/Cairo",
+    "spots": [
+      [
+        "citadel",
+        "萨拉丁城堡",
+        "Cairo Citadel"
+      ],
+      [
+        "egyptian-museum",
+        "埃及博物馆",
+        "Egyptian Museum"
+      ]
+    ]
+  },
+  {
+    "id": "marrakech",
+    "name": "马拉喀什",
+    "english": "Marrakech",
+    "country": "摩洛哥",
+    "timezone": "Africa/Casablanca",
+    "spots": [
+      [
+        "koutoubia",
+        "库图比亚清真寺",
+        "Kutubiyya Mosque"
+      ]
+    ]
+  },
+  {
+    "id": "cape-town",
+    "name": "开普敦",
+    "english": "Cape Town",
+    "country": "南非",
+    "timezone": "Africa/Johannesburg",
+    "spots": [
+      [
+        "table",
+        "桌山",
+        "Table Mountain"
+      ]
+    ]
+  },
+  {
+    "id": "abu-dhabi",
+    "name": "阿布扎比",
+    "english": "Abu Dhabi",
+    "country": "阿联酋",
+    "timezone": "Asia/Dubai",
+    "spots": [
+      [
+        "mosque",
+        "谢赫扎耶德大清真寺",
+        "Sheikh Zayed Grand Mosque"
+      ]
+    ]
+  },
+  {
+    "id": "doha",
+    "name": "多哈",
+    "english": "Doha",
+    "country": "卡塔尔",
+    "timezone": "Asia/Qatar",
+    "spots": [
+      [
+        "museum",
+        "伊斯兰艺术博物馆",
+        "Museum of Islamic Art, Doha"
+      ]
+    ]
+  }
+]
